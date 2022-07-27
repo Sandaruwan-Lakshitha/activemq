@@ -1,1 +1,1 @@
-web: ./bin/activewq start
+web: ./bin/activemq start
